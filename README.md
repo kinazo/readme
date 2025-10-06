@@ -1,4 +1,4 @@
-# Hola, soy Carlos Méndez Gamboa
+# Hola, soy Carlos Méndez
 
 ## Sobre mí
 
